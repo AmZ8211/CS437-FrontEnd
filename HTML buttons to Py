@@ -1,7 +1,1 @@
-from flask import Flask, render_template,request
-import pandas as pd
-import xlrd
-from pandas import DataFrame
-import sys
 
-<form action="/submit"
